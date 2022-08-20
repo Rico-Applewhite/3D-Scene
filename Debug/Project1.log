@@ -1,0 +1,13 @@
+﻿  main.cpp
+C:\Users\Roper\Downloads\FinalProject\main.cpp(370,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Roper\Downloads\FinalProject\main.cpp(512,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Roper\Downloads\FinalProject\main.cpp(513,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Roper\Downloads\FinalProject\main.cpp(517,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Roper\Downloads\FinalProject\main.cpp(518,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Roper\Downloads\FinalProject\main.cpp(520,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Roper\Downloads\FinalProject\main.cpp(521,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Roper\Downloads\FinalProject\main.cpp(530,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Roper\Downloads\FinalProject\main.cpp(936,5): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\Roper\Downloads\FinalProject\main.cpp(1058,5): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\Roper\Downloads\FinalProject\main.cpp(1259,5): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+  Project1.vcxproj -> C:\Users\Roper\Downloads\Project1\Debug\Project1.exe
