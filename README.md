@@ -2,7 +2,7 @@
 How do I approach designing software?
 
 
-I approach designing software by makeing sure my code is clean and organize.Comments throughout provides deatil of what even line of the code does, in case someone else wants to know or edit a line in the program.
+I approach designing software by makeing sure my code is clean and organize.Comments throughout provides deatil of what even line of the code does, in case someone else wants to know the purpose or edit a line in the program.
 
 
 What new development strategies did you use while working on your 3D scene?
